@@ -393,13 +393,13 @@ body {
 
 .stat-item {
   font-family: 'Orbitron', sans-serif;
-  font-weight: 700;                  /* Bold text */
+  font-weight: 500;                  /* Bold text */
   text-transform: uppercase;
 }
 
 .stat-number {
   font-size: 2.5rem;
-  font-weight: 800;
+  font-weight: 400;
   color: var(--accent);
   text-shadow: 0 0 15px var(--accent);
 }
